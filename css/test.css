@@ -1,0 +1,22 @@
+
+body{
+	background-color: lightblue;
+}
+
+h1{color: orange;
+	font-family: sans-serif;
+	font-size: 80px}
+
+#first{
+	font-size: 150px
+	}
+
+.small{font-size: 14px}
+
+h2{ color: grey;
+	font-family: serif;
+	text-decoration: underline; 
+	font-size: 22px}
+
+span{font-style: italic;}
+h2 span{text-decoration: line-through}
